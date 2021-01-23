@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PesanKopi</string>
+    <string name="masukan_nama_anda">Masukan nama anda ....</string>
+    <string name="tambahkan_pesanan">Tambahkan Pesanan</string>
+    <string name="espresso">Espresso</string>
+    <string name="macchiato">Macchiato</string>
+    <string name="latte">Latte</string>
+    <string name="cappucino">Cappucino</string>
+    <string name="mocha">Mocha</string>
+    <string name="affogato">Affogato</string>
+    <string name="jumlah">jumlah</string>
+    <string name="buttontext">-</string>
+    <string name="textviewtext">0</string>
+    <string name="buttontext2">+</string>
+    <string name="harga">Harga</string>
+    <string name="textviewtext2">0</string>
+</resources>
